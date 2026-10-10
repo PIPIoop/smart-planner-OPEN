@@ -1,0 +1,11 @@
+{
+  "name": "Smart Planner",
+  "short_name": "Planner",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4F46E5",
+  "description": "Local-first calendar and task planner.",
+  "orientation": "any",
+  "prefer_related_applications": false
+}
